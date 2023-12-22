@@ -1,4 +1,10 @@
 {
     "github.copilot.editor.enableCodeActions": false,
     "github.copilot.editor.enableAutoCompletions": false,
+    "files.associations": {
+        "*.toml": "properties",
+        "*.html.liquid": "html",
+        "fstream": "cpp",
+        "cstdlib": "cpp"
+    },
 }
