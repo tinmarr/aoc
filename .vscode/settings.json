@@ -5,6 +5,8 @@
         "*.toml": "properties",
         "*.html.liquid": "html",
         "fstream": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "istream": "cpp",
+        "stdlib.h": "c"
     },
 }
