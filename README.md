@@ -4,6 +4,10 @@ Here I will post the solutions to all the problems I complete. Each year will ha
 
 [Quick link to Advent of Code](https://adventofcode.com/)
 
+## 2024
+
+I'll be doing this one in Go. Trying again to complete all parts of all problems. We will see if I am able to complete this.
+
 ## 2023
 
 As this is my first advent of code, I am setting myself some fairly easy goals (I hope). I do want to take the opportunity to get better at C/C++ so I'll be doing it in that.
