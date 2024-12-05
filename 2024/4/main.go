@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"os"
 	"strings"
+
+	helper "github.com/tinmarr/aoc/2024"
 )
 
 // Returns the delta to all adjacent or diagonal Ms (values
@@ -107,12 +108,7 @@ func part2(file string) {
 }
 
 func main() {
-	dat, err := os.ReadFile(os.Args[1])
-	if err != nil {
-		fmt.Println("read file error")
-		return
-	}
-	file := strings.TrimRight(string(dat), "\n")
+	file := helper.LoadFile()
 
 	// part1(file)
 	part2(file)
